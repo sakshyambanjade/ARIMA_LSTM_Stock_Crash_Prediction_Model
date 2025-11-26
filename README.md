@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)  
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fjrfm18xxxxx-blue)](https://doi.org/10.3390/jrfm18xxxxx) *(in review)*  
 [![JRFM Special Issue](https://img.shields.io/badge/JRFM-Machine%20Learning%20in%20Finance%20&%20Insurance-00d2ff)](https://www.mdpi.com/journal/jrfm/special_issues/ML_Risk_Management)
 
 > **Submitted to:** *Journal of Risk and Financial Management (JRFM)*  
